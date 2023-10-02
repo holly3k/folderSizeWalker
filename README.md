@@ -1,6 +1,6 @@
 # folderSizeWalkerSingalBinary
 
-scan a folder and generate a JSON with detail size for every folder and files in it
+scan a folder and generate a JSON with detail size for every folder and files in it</br>
 can be compile to an executable file or a share lib for other application
 
 ## 1 To run as a executable app
